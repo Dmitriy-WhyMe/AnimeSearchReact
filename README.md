@@ -1,7 +1,7 @@
 # The Anime Database
 [Application link](https://weather-react-rho.vercel.app)
 ____________________________________________
-![alt text](screenshots/screen.png "The Anime Database")
+![alt text](screen.png "The Anime Database")
 ## Available Scripts
 
 In the project directory, you can run:
