@@ -1,5 +1,5 @@
 # The Anime Database
-[Application link](https://weather-react-rho.vercel.app)
+[Application link](https://anime-search-react.vercel.app)
 ____________________________________________
 ![alt text](screen.png "The Anime Database")
 ## Available Scripts
